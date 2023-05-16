@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Palak Mahalgamaiya</h1>
-<h3 align="center"></h3>
+<h3 align="center"> currently pursuing Btech from NIT Bhopal</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/62280849/128852791-6fb73a65-29a6-4c5e-84c5-e8372ac2bd77.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=palak-mahalgamaiya&label=Profile%20views&color=0e75b6&style=flat" alt="palak-mahalgamaiya" /> </p>
